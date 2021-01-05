@@ -9,6 +9,6 @@ public class Main {
 
     public static String findInfoById(String a){
 
-        return  a+"像个傻逼";
+        return  a+"DXY像个傻逼";
     }
 }
